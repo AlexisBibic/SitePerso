@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Portfolio",
+    "title": "Alexis Bibic - Designer Graphique Junior",
     "description": "",
     "home_page_url": "",
     "feed_url": "/feed.json",
@@ -10,18 +10,64 @@
     },
     "items": [
         {
+            "id": "/absolut-brut.html",
+            "url": "/absolut-brut.html",
+            "title": "Absolut Brut",
+            "summary": " Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec Nicolas Roger.",
+            "content_html": "<p><img src=\"/media/posts/12/vodka.jpg\" alt=\"\" width=\"1358\" height=\"1921\"></p>\n<p>Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec <a href=\"https://oswin.io\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Roger</a>.</p>",
+            "image": "/media/posts/12/vodka.jpg",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-28T15:12:59+02:00",
+            "date_modified": "2019-05-28T15:13:41+02:00"
+        },
+        {
+            "id": "/stranger-things.html",
+            "url": "/stranger-things.html",
+            "title": "Stranger Things",
+            "summary": "Création d'un Title Sequence pour la série Stranger Things.",
+            "content_html": "Création d'un Title Sequence pour la série Stranger Things.",
+            "image": "/media/posts/11/Sans-titre-1.png",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-28T12:06:36+02:00",
+            "date_modified": "2019-05-28T14:46:53+02:00"
+        },
+        {
+            "id": "/futur-en-seine.html",
+            "url": "/futur-en-seine.html",
+            "title": "Futur en Seine",
+            "summary": "Création d'une campagne vidéo pour le festival Futur en Seine.",
+            "content_html": "<p>Création d'une campagne vidéo pour le festival Futur en Seine.</p>",
+            "image": "/media/posts/10/Annotation-2019-05-22-100731.png",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-28T12:03:32+02:00",
+            "date_modified": "2019-05-28T14:47:02+02:00"
+        },
+        {
             "id": "/datavisualisation.html",
             "url": "/datavisualisation.html",
             "title": "Datavisualisation",
             "summary": "Projet de Datavisualisation pour la BnF.",
             "content_html": "<figure class=\"post__video\">Projet de Datavisualisation pour la BnF.</figure>",
+            "image": "/media/posts/9/Copie-de-still_presentation0640.png",
             "author": {
                 "name": "Alexis Bibic"
             },
             "tags": [
             ],
             "date_published": "2019-05-28T11:30:00+02:00",
-            "date_modified": "2019-05-28T11:33:03+02:00"
+            "date_modified": "2019-05-28T14:47:15+02:00"
         }
     ]
 }

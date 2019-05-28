@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Portfolio</title>
+    <title>Alexis Bibic - Designer Graphique Junior</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-05-28T11:37:15+02:00</updated>
+    <updated>2019-05-28T15:14:39+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
     <id></id>
 
+    <entry>
+        <title>Absolut Brut</title>
+        <author>
+            <name>Alexis Bibic</name>
+        </author>
+        <link href="/absolut-brut.html"/>
+        <id>/absolut-brut.html</id>
+
+        <updated>2019-05-28T15:13:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/12/vodka.jpg" alt="" />
+                     Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec Nicolas Roger.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/12/vodka.jpg" alt="" />
+                <p><img src="/media/posts/12/vodka.jpg" alt="" width="1358" height="1921"></p>
+<p>Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec <a href="https://oswin.io" target="_blank" rel="noopener noreferrer">Nicolas Roger</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stranger Things</title>
+        <author>
+            <name>Alexis Bibic</name>
+        </author>
+        <link href="/stranger-things.html"/>
+        <id>/stranger-things.html</id>
+
+        <updated>2019-05-28T14:46:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/11/Sans-titre-1.png" alt="" />
+                    Création d'un Title Sequence pour la série Stranger Things.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/11/Sans-titre-1.png" alt="" />
+                Création d'un Title Sequence pour la série Stranger Things.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Futur en Seine</title>
+        <author>
+            <name>Alexis Bibic</name>
+        </author>
+        <link href="/futur-en-seine.html"/>
+        <id>/futur-en-seine.html</id>
+
+        <updated>2019-05-28T14:47:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
+                    Création d'une campagne vidéo pour le festival Futur en Seine.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
+                <p>Création d'une campagne vidéo pour le festival Futur en Seine.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Datavisualisation</title>
         <author>
@@ -17,14 +84,16 @@
         <link href="/datavisualisation.html"/>
         <id>/datavisualisation.html</id>
 
-        <updated>2019-05-28T11:33:03+02:00</updated>
+        <updated>2019-05-28T14:47:15+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
                     Projet de Datavisualisation pour la BnF.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
                 <figure class="post__video">Projet de Datavisualisation pour la BnF.</figure>
             ]]>
         </content>

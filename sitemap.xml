@@ -17,6 +17,10 @@
 </image:image>
 </url>
 <url>
+<loc>/contact.html</loc>
+<lastmod>2019-05-28T15:57:30+02:00</lastmod>
+</url>
+<url>
 <loc>/datavisualisation.html</loc>
 <lastmod>2019-05-28T14:47:15+02:00</lastmod>
 <image:image>
@@ -33,8 +37,12 @@
 </image:image>
 </url>
 <url>
+<loc>/parcours.html</loc>
+<lastmod>2019-05-28T15:57:19+02:00</lastmod>
+</url>
+<url>
 <loc>/stranger-things.html</loc>
-<lastmod>2019-05-28T14:46:53+02:00</lastmod>
+<lastmod>2019-05-28T16:03:52+02:00</lastmod>
 <image:image>
 <image:loc>/media\posts\11/Sans-titre-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>

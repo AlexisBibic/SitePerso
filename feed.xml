@@ -3,7 +3,7 @@
     <title>Alexis Bibic - Designer Graphique</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-05-28T15:38:59+02:00</updated>
+    <updated>2019-05-28T16:03:56+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="/stranger-things.html"/>
         <id>/stranger-things.html</id>
 
-        <updated>2019-05-28T14:46:53+02:00</updated>
+        <updated>2019-05-28T16:03:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="/media/posts/11/Sans-titre-1.png" alt="" />
@@ -50,7 +50,10 @@
         <content type="html">
             <![CDATA[
                     <img src="/media/posts/11/Sans-titre-1.png" alt="" />
-                Création d'un Title Sequence pour la série Stranger Things.
+                <figure class="post__video">
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/VUp46Cn8kxY" allowfullscreen="allowfullscreen"></iframe></figure>
+</figure>
+<figure class="post__video">Création d'un Title Sequence pour la série Stranger Things.</figure>
             ]]>
         </content>
     </entry>

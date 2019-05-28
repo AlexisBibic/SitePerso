@@ -29,7 +29,7 @@
             "url": "/stranger-things.html",
             "title": "Stranger Things",
             "summary": "Création d'un Title Sequence pour la série Stranger Things.",
-            "content_html": "Création d'un Title Sequence pour la série Stranger Things.",
+            "content_html": "<figure class=\"post__video\">\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VUp46Cn8kxY\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</figure>\n<figure class=\"post__video\">Création d'un Title Sequence pour la série Stranger Things.</figure>",
             "image": "/media/posts/11/Sans-titre-1.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:06:36+02:00",
-            "date_modified": "2019-05-28T14:46:53+02:00"
+            "date_modified": "2019-05-28T16:03:52+02:00"
         },
         {
             "id": "/futur-en-seine.html",

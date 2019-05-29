@@ -10,11 +10,40 @@
     },
     "items": [
         {
+            "id": "/cosmo2.html",
+            "url": "/cosmo2.html",
+            "title": "Cosmo2",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/16/gallery/COSMO2-Parsely-game_Partie2.jpg\" ><img src=\"/media/posts/16/gallery/COSMO2-Parsely-game_Partie2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/16/gallery/COSMO2-Parsely-game_Partie1.jpg\" ><img src=\"/media/posts/16/gallery/COSMO2-Parsely-game_Partie1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n</div>",
+            "image": "/media/posts/16/Capture.PNG",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-28T19:09:01+02:00",
+            "date_modified": "2019-05-28T19:11:01+02:00"
+        },
+        {
+            "id": "/lequipe-e-sport.html",
+            "url": "/lequipe-e-sport.html",
+            "title": "L&#x27;équipe E-sport",
+            "summary": "Création d'une campagne print pour le début du magazine \" L'équipe E-sport&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/15/gallery/affiche-abribus.png\" ><img src=\"/media/posts/15/gallery/affiche-abribus-thumbnail.png\" alt=\"\" width=\"768\" height=\"1126\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/15/gallery/affiche-a4.png\" ><img src=\"/media/posts/15/gallery/affiche-a4-thumbnail.png\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/15/gallery/affiche-4par3.png\" ><img src=\"/media/posts/15/gallery/affiche-4par3-thumbnail.png\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div>\n<p>Création d'une campagne print pour le début du magazine \" L'équipe E-sport \" en collaboration avec <a href=\"https://oswin.io\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Roger</a>.</p>",
+            "image": "/media/posts/15/affiche-abribus.png",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-28T18:41:29+02:00",
+            "date_modified": "2019-05-28T19:11:16+02:00"
+        },
+        {
             "id": "/absolut-brut.html",
             "url": "/absolut-brut.html",
             "title": "Absolut Brut",
             "summary": " Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec Nicolas Roger.",
-            "content_html": "<p><img src=\"/media/posts/12/vodka.jpg\" alt=\"\" width=\"1358\" height=\"1921\"></p>\n<p>Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec <a href=\"https://oswin.io\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Roger</a>.</p>",
+            "content_html": "<p><img src=\"/media/posts/12/vodka.jpg\" alt=\"\" width=\"632\" height=\"894\"></p>\n<p>Création d'une affiche publicitaire pour Absolut Vodka en collaboration avec <a href=\"https://oswin.io\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Roger</a>.</p>",
             "image": "/media/posts/12/vodka.jpg",
             "author": {
                 "name": "Alexis Bibic"
@@ -22,14 +51,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T15:12:59+02:00",
-            "date_modified": "2019-05-28T15:13:41+02:00"
+            "date_modified": "2019-05-28T19:11:27+02:00"
         },
         {
             "id": "/stranger-things.html",
             "url": "/stranger-things.html",
             "title": "Stranger Things",
             "summary": "Création d'un Title Sequence pour la série Stranger Things.",
-            "content_html": "<figure class=\"post__video\">\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VUp46Cn8kxY\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</figure>\n<figure class=\"post__video\">Création d'un Title Sequence pour la série Stranger Things.</figure>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VUp46Cn8kxY\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'un Title Sequence pour la série Stranger Things.</p>",
             "image": "/media/posts/11/Sans-titre-1.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -37,14 +66,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:06:36+02:00",
-            "date_modified": "2019-05-28T16:03:52+02:00"
+            "date_modified": "2019-05-28T19:11:41+02:00"
         },
         {
             "id": "/futur-en-seine.html",
             "url": "/futur-en-seine.html",
             "title": "Futur en Seine",
             "summary": "Création d'une campagne vidéo pour le festival Futur en Seine.",
-            "content_html": "<p>Création d'une campagne vidéo pour le festival Futur en Seine.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/FNEKMewt8pM\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/y8fliq8UCA4\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Wq4RqKOzvCU\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/v7DjFZ8arXk\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'une campagne vidéo pour le festival Futur en Seine.</p>",
             "image": "/media/posts/10/Annotation-2019-05-22-100731.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -52,14 +81,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:03:32+02:00",
-            "date_modified": "2019-05-28T14:47:02+02:00"
+            "date_modified": "2019-05-28T19:11:55+02:00"
         },
         {
             "id": "/datavisualisation.html",
             "url": "/datavisualisation.html",
             "title": "Datavisualisation",
             "summary": "Projet de Datavisualisation pour la BnF.",
-            "content_html": "<figure class=\"post__video\">Projet de Datavisualisation pour la BnF.</figure>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/61XzMVwzRhA\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/MDdW5TNngoM\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\nProjet de Datavisualisation pour la BnF.",
             "image": "/media/posts/9/Copie-de-still_presentation0640.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -67,7 +96,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T11:30:00+02:00",
-            "date_modified": "2019-05-28T14:47:15+02:00"
+            "date_modified": "2019-05-28T19:12:05+02:00"
         }
     ]
 }

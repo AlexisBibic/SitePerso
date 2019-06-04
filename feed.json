@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Alexis Bibic - Designer Graphique",
+    "title": "Alexis Bibic | Designer Graphique",
     "description": "",
     "home_page_url": "",
     "feed_url": "/feed.json",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T19:09:01+02:00",
-            "date_modified": "2019-06-04T14:14:57+02:00"
+            "date_modified": "2019-06-04T14:16:53+02:00"
         },
         {
             "id": "/lequipe-e-sport.html",
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T18:41:29+02:00",
-            "date_modified": "2019-06-04T14:14:03+02:00"
+            "date_modified": "2019-06-04T14:17:02+02:00"
         },
         {
             "id": "/absolut-brut.html",
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T15:12:59+02:00",
-            "date_modified": "2019-06-04T14:13:39+02:00"
+            "date_modified": "2019-06-04T14:17:16+02:00"
         },
         {
             "id": "/stranger-things.html",
@@ -67,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:06:36+02:00",
-            "date_modified": "2019-06-04T14:13:23+02:00"
+            "date_modified": "2019-06-04T14:17:27+02:00"
         },
         {
             "id": "/futur-en-seine.html",
@@ -82,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:03:32+02:00",
-            "date_modified": "2019-06-04T14:15:05+02:00"
+            "date_modified": "2019-06-04T14:17:39+02:00"
         },
         {
             "id": "/datavisualisation.html",
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T11:30:00+02:00",
-            "date_modified": "2019-06-04T14:15:11+02:00"
+            "date_modified": "2019-06-04T14:17:46+02:00"
         }
     ]
 }

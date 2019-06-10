@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Alexis Bibic | Designer Graphique</title>
+    <title>Alexis Bibic | Directeur Artistique Graphic Designer</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-06-05T22:27:38+02:00</updated>
+    <updated>2019-06-10T14:36:07+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
     <id></id>
 
+    <entry>
+        <title>Topographic Map</title>
+        <author>
+            <name>Alexis Bibic</name>
+        </author>
+        <link href="/topographic-map.html"/>
+        <id>/topographic-map.html</id>
+
+        <updated>2019-06-10T14:33:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/17/test24.png" alt="" />
+                    Création d'une carte topographique en 3D.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/17/test24.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="/media/posts/17/gallery/test24.png" ><img src="/media/posts/17/gallery/test24-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div>
+<p>Création d'une carte topographique en 3D.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cosmo2</title>
         <author>

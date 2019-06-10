@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Alexis Bibic | Designer Graphique",
+    "title": "Alexis Bibic | Directeur Artistique Graphic Designer",
     "description": "",
     "home_page_url": "",
     "feed_url": "/feed.json",
@@ -9,6 +9,21 @@
         "name": "Alexis Bibic"
     },
     "items": [
+        {
+            "id": "/topographic-map.html",
+            "url": "/topographic-map.html",
+            "title": "Topographic Map",
+            "summary": "Création d'une carte topographique en 3D.",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/17/gallery/test24.png\" ><img src=\"/media/posts/17/gallery/test24-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div>\n<p>Création d'une carte topographique en 3D.</p>",
+            "image": "/media/posts/17/test24.png",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-10T14:31:12+02:00",
+            "date_modified": "2019-06-10T14:33:15+02:00"
+        },
         {
             "id": "/cosmo2.html",
             "url": "/cosmo2.html",

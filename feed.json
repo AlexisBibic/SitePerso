@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Alexis Bibic | Directeur Artistique Graphic Designer",
+    "title": "Alexis Bibic | Directeur Artistique Junior",
     "description": "",
     "home_page_url": "",
     "feed_url": "/feed.json",
@@ -74,7 +74,7 @@
             "url": "/stranger-things.html",
             "title": "Stranger Things",
             "summary": "Création d'un générique pour la série Stranger Things. Collaboration: Julia Messina /&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VUp46Cn8kxY\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'un générique pour la série Stranger Things.</p>\n<p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'un générique pour la série Stranger Things.</p>\n<p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>",
             "image": "/media/posts/11/Sans-titre-1.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -82,14 +82,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:06:36+02:00",
-            "date_modified": "2019-06-04T14:17:27+02:00"
+            "date_modified": "2019-06-12T13:13:39+02:00"
         },
         {
             "id": "/futur-en-seine.html",
             "url": "/futur-en-seine.html",
             "title": "Futur en Seine",
             "summary": "Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/FNEKMewt8pM\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/y8fliq8UCA4\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Wq4RqKOzvCU\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/v7DjFZ8arXk\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant la technologie et l'innovation.</p>\n<p>Collaboration: Agathe Lemoine / Stephane Labrousse / Nicolas Lepage.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341755926?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant la technologie et l'innovation.</p>\n<p>Collaboration: Agathe Lemoine / Stephane Labrousse / Nicolas Lepage.</p>",
             "image": "/media/posts/10/Annotation-2019-05-22-100731.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -97,14 +97,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:03:32+02:00",
-            "date_modified": "2019-06-04T14:17:39+02:00"
+            "date_modified": "2019-06-12T11:56:45+02:00"
         },
         {
             "id": "/datavisualisation.html",
             "url": "/datavisualisation.html",
             "title": "Datavisualisation",
             "summary": "Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/61XzMVwzRhA\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/MDdW5TNngoM\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>\n<p>Collaboration: Hugo Depaniat / Charlie Delahousse.</p>\n<p> </p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>\n<p>Collaboration: Hugo Depaniat / Charlie Delahousse.</p>",
             "image": "/media/posts/9/Copie-de-still_presentation0640.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T11:30:00+02:00",
-            "date_modified": "2019-06-04T14:17:46+02:00"
+            "date_modified": "2019-06-12T13:16:32+02:00"
         }
     ]
 }

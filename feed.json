@@ -13,8 +13,8 @@
             "id": "/topographic-map.html",
             "url": "/topographic-map.html",
             "title": "Topographic Map",
-            "summary": "Création d'une carte topographique en 3D.",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/17/gallery/test24.png\" ><img src=\"/media/posts/17/gallery/test24-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div>\n<p>Création d'une carte topographique en 3D.</p>",
+            "summary": " Création d'une carte topographique en 3D.",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"/media/posts/17/test24.png\" width=\"1920\" height=\"1080\"></p>\n<p>Création d'une carte topographique en 3D.</p>",
             "image": "/media/posts/17/test24.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-06-10T14:31:12+02:00",
-            "date_modified": "2019-06-10T14:33:15+02:00"
+            "date_modified": "2019-06-22T00:35:55+02:00"
         },
         {
             "id": "/cosmo2.html",
@@ -74,7 +74,7 @@
             "url": "/stranger-things.html",
             "title": "Stranger Things",
             "summary": "Création d'un générique pour la série Stranger Things. Collaboration: Julia Messina /&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'un générique pour la série Stranger Things.</p>\n<p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'un générique pour la série Stranger Things.</p>\n<p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>",
             "image": "/media/posts/11/Sans-titre-1.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -82,14 +82,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:06:36+02:00",
-            "date_modified": "2019-06-12T13:13:39+02:00"
+            "date_modified": "2019-06-22T00:40:12+02:00"
         },
         {
             "id": "/futur-en-seine.html",
             "url": "/futur-en-seine.html",
             "title": "Futur en Seine",
             "summary": "Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341755926?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant la technologie et l'innovation.</p>\n<p>Collaboration: Agathe Lemoine / Stephane Labrousse / Nicolas Lepage.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341755926?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant la technologie et l'innovation.</p>\n<p>Collaboration: Agathe Lemoine / Stephane Labrousse / Nicolas Lepage.</p>",
             "image": "/media/posts/10/Annotation-2019-05-22-100731.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -97,14 +97,14 @@
             "tags": [
             ],
             "date_published": "2019-05-28T12:03:32+02:00",
-            "date_modified": "2019-06-12T11:56:45+02:00"
+            "date_modified": "2019-06-22T00:39:59+02:00"
         },
         {
             "id": "/datavisualisation.html",
             "url": "/datavisualisation.html",
             "title": "Datavisualisation",
             "summary": "Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était&hellip;",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>\n<p>Collaboration: Hugo Depaniat / Charlie Delahousse.</p>",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"625\" height=\"515\" src=\"https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>\n<p>Collaboration: Hugo Depaniat / Charlie Delahousse.</p>",
             "image": "/media/posts/9/Copie-de-still_presentation0640.png",
             "author": {
                 "name": "Alexis Bibic"
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2019-05-28T11:30:00+02:00",
-            "date_modified": "2019-06-12T13:16:32+02:00"
+            "date_modified": "2019-06-22T00:40:59+02:00"
         }
     ]
 }

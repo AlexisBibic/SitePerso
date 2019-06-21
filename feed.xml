@@ -3,7 +3,7 @@
     <title>Alexis Bibic | Directeur Artistique Junior</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-06-18T09:15:31+02:00</updated>
+    <updated>2019-06-22T00:58:34+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
@@ -17,19 +17,17 @@
         <link href="/topographic-map.html"/>
         <id>/topographic-map.html</id>
 
-        <updated>2019-06-10T14:33:15+02:00</updated>
+        <updated>2019-06-22T00:35:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="/media/posts/17/test24.png" alt="" />
-                    Création d'une carte topographique en 3D.
+                     Création d'une carte topographique en 3D.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="/media/posts/17/test24.png" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="/media/posts/17/gallery/test24.png" ><img src="/media/posts/17/gallery/test24-thumbnail.png" alt="" width="768" height="432"></a></figure>
-</div>
+                <p><img class="post__image--wide" src="/media/posts/17/test24.png" width="1920" height="1080"></p>
 <p>Création d'une carte topographique en 3D.</p>
             ]]>
         </content>
@@ -122,7 +120,7 @@
         <link href="/stranger-things.html"/>
         <id>/stranger-things.html</id>
 
-        <updated>2019-06-12T13:13:39+02:00</updated>
+        <updated>2019-06-22T00:40:12+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="/media/posts/11/Sans-titre-1.png" alt="" />
@@ -132,7 +130,7 @@
         <content type="html">
             <![CDATA[
                     <img src="/media/posts/11/Sans-titre-1.png" alt="" />
-                <figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+                <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <p>Création d'un générique pour la série Stranger Things.</p>
 <p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>
             ]]>
@@ -146,7 +144,7 @@
         <link href="/futur-en-seine.html"/>
         <id>/futur-en-seine.html</id>
 
-        <updated>2019-06-12T11:56:45+02:00</updated>
+        <updated>2019-06-22T00:39:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
@@ -156,10 +154,10 @@
         <content type="html">
             <![CDATA[
                     <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
-                <figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341755926?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+                <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
+<figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+<figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+<figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341755926?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <p>Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant la technologie et l'innovation.</p>
 <p>Collaboration: Agathe Lemoine / Stephane Labrousse / Nicolas Lepage.</p>
             ]]>
@@ -173,7 +171,7 @@
         <link href="/datavisualisation.html"/>
         <id>/datavisualisation.html</id>
 
-        <updated>2019-06-12T13:16:32+02:00</updated>
+        <updated>2019-06-22T00:40:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
@@ -183,8 +181,8 @@
         <content type="html">
             <![CDATA[
                     <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
-                <figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
+                <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+<figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
 <p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>
 <p>Collaboration: Hugo Depaniat / Charlie Delahousse.</p>
             ]]>

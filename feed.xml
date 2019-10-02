@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Alexis Bibic | Designer Graphique</title>
-    <link href="/feed.xml" rel="self" />
-    <link href="" />
-    <updated>2019-10-02T14:42:30+02:00</updated>
+    <link href="alexis.oswin.io/feed.xml" rel="self" />
+    <link href="alexis.oswin.io" />
+    <updated>2019-10-02T14:43:43+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
-    <id></id>
+    <id>alexis.oswin.io</id>
 
     <entry>
         <title>Topographic Map</title>
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/topographic-map.html"/>
-        <id>/topographic-map.html</id>
+        <link href="alexis.oswin.io/topographic-map.html"/>
+        <id>alexis.oswin.io/topographic-map.html</id>
 
         <updated>2019-06-22T00:35:55+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/17/test24.png" alt="" />
+                        <img src="alexis.oswin.io/media/posts/17/test24.png" alt="" />
                      Création d'une carte topographique en 3D.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/17/test24.png" alt="" />
-                <p><img class="post__image--wide" src="/media/posts/17/test24.png" width="1920" height="1080"></p>
+                    <img src="alexis.oswin.io/media/posts/17/test24.png" alt="" />
+                <p><img class="post__image--wide" src="alexis.oswin.io/media/posts/17/test24.png" width="1920" height="1080"></p>
 <p>Création d'une carte topographique en 3D.</p>
             ]]>
         </content>
@@ -37,22 +37,22 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/cosmo2.html"/>
-        <id>/cosmo2.html</id>
+        <link href="alexis.oswin.io/cosmo2.html"/>
+        <id>alexis.oswin.io/cosmo2.html</id>
 
         <updated>2019-06-04T14:16:53+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/16/Capture.PNG" alt="" />
+                        <img src="alexis.oswin.io/media/posts/16/Capture.PNG" alt="" />
                     Création d'un parcely game papier. Le ou les joueurs doivent s'échapper d'une&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/16/Capture.PNG" alt="" />
+                    <img src="alexis.oswin.io/media/posts/16/Capture.PNG" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="/media/posts/16/gallery/COSMO2-Parsely-game_Partie2.jpg" ><img src="/media/posts/16/gallery/COSMO2-Parsely-game_Partie2-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
-<figure class="gallery__item"><a href="/media/posts/16/gallery/COSMO2-Parsely-game_Partie1.jpg" ><img src="/media/posts/16/gallery/COSMO2-Parsely-game_Partie1-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
+<figure class="gallery__item"><a href="alexis.oswin.io/media/posts/16/gallery/COSMO2-Parsely-game_Partie2.jpg" ><img src="alexis.oswin.io/media/posts/16/gallery/COSMO2-Parsely-game_Partie2-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
+<figure class="gallery__item"><a href="alexis.oswin.io/media/posts/16/gallery/COSMO2-Parsely-game_Partie1.jpg" ><img src="alexis.oswin.io/media/posts/16/gallery/COSMO2-Parsely-game_Partie1-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
 </div>
 <p>Création d'un parcely game papier. Le ou les joueurs doivent s'échapper d'une navette spaciale. Un minuteur est lancé à 10 minutes, selon les actions réalisées le temps augmente ou diminue. Si le minuteur tombe à 0 et que le ou les joueurs ne se sont pas échappés, le jeu et terminé et c'est un échec pour les participants.</p>
 <p> </p>
@@ -65,23 +65,23 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/lequipe-e-sport.html"/>
-        <id>/lequipe-e-sport.html</id>
+        <link href="alexis.oswin.io/lequipe-e-sport.html"/>
+        <id>alexis.oswin.io/lequipe-e-sport.html</id>
 
         <updated>2019-06-04T14:17:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/15/affiche-abribus.png" alt="" />
+                        <img src="alexis.oswin.io/media/posts/15/affiche-abribus.png" alt="" />
                     Création d'une campagne print pour le début du magazine " L'équipe E-sport&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/15/affiche-abribus.png" alt="" />
+                    <img src="alexis.oswin.io/media/posts/15/affiche-abribus.png" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="/media/posts/15/gallery/affiche-abribus.png" ><img src="/media/posts/15/gallery/affiche-abribus-thumbnail.png" alt="" width="768" height="1126"></a></figure>
-<figure class="gallery__item"><a href="/media/posts/15/gallery/affiche-a4.png" ><img src="/media/posts/15/gallery/affiche-a4-thumbnail.png" alt="" width="768" height="1086"></a></figure>
-<figure class="gallery__item"><a href="/media/posts/15/gallery/affiche-4par3.png" ><img src="/media/posts/15/gallery/affiche-4par3-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="alexis.oswin.io/media/posts/15/gallery/affiche-abribus.png" ><img src="alexis.oswin.io/media/posts/15/gallery/affiche-abribus-thumbnail.png" alt="" width="768" height="1126"></a></figure>
+<figure class="gallery__item"><a href="alexis.oswin.io/media/posts/15/gallery/affiche-a4.png" ><img src="alexis.oswin.io/media/posts/15/gallery/affiche-a4-thumbnail.png" alt="" width="768" height="1086"></a></figure>
+<figure class="gallery__item"><a href="alexis.oswin.io/media/posts/15/gallery/affiche-4par3.png" ><img src="alexis.oswin.io/media/posts/15/gallery/affiche-4par3-thumbnail.png" alt="" width="768" height="512"></a></figure>
 </div>
 <p>Création d'une campagne print pour le début du magazine " L'équipe E-sport "</p>
 <p>Collaboration: <a href="https://oswin.io" target="_blank" rel="noopener noreferrer">Nicolas Roger</a>.</p>
@@ -93,20 +93,20 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/absolut-brut.html"/>
-        <id>/absolut-brut.html</id>
+        <link href="alexis.oswin.io/absolut-brut.html"/>
+        <id>alexis.oswin.io/absolut-brut.html</id>
 
         <updated>2019-06-04T14:17:16+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/12/vodka.jpg" alt="" />
+                        <img src="alexis.oswin.io/media/posts/12/vodka.jpg" alt="" />
                      Création d'une affiche publicitaire pour Absolut Vodka. Collaboration: Nicolas Roger.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/12/vodka.jpg" alt="" />
-                <p><img src="/media/posts/12/vodka.jpg" alt="" width="632" height="894"></p>
+                    <img src="alexis.oswin.io/media/posts/12/vodka.jpg" alt="" />
+                <p><img src="alexis.oswin.io/media/posts/12/vodka.jpg" alt="" width="632" height="894"></p>
 <p>Création d'une affiche publicitaire pour Absolut Vodka.</p>
 <p>Collaboration: <a href="https://oswin.io" target="_blank" rel="noopener noreferrer">Nicolas Roger</a>.</p>
             ]]>
@@ -117,19 +117,19 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/stranger-things.html"/>
-        <id>/stranger-things.html</id>
+        <link href="alexis.oswin.io/stranger-things.html"/>
+        <id>alexis.oswin.io/stranger-things.html</id>
 
         <updated>2019-06-22T00:40:12+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/11/Sans-titre-1.png" alt="" />
+                        <img src="alexis.oswin.io/media/posts/11/Sans-titre-1.png" alt="" />
                     Création d'un générique pour la série Stranger Things. Collaboration: Julia Messina /&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/11/Sans-titre-1.png" alt="" />
+                    <img src="alexis.oswin.io/media/posts/11/Sans-titre-1.png" alt="" />
                 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341756352?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <p>Création d'un générique pour la série Stranger Things.</p>
 <p>Collaboration: Julia Messina / Nicolas Roger / Guillaume Bodin.</p>
@@ -141,19 +141,19 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/futur-en-seine.html"/>
-        <id>/futur-en-seine.html</id>
+        <link href="alexis.oswin.io/futur-en-seine.html"/>
+        <id>alexis.oswin.io/futur-en-seine.html</id>
 
         <updated>2019-06-22T00:39:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
+                        <img src="alexis.oswin.io/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
                     Création d'une campagne vidéo pour le festival Futur en Seine, festival montrant&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
+                    <img src="alexis.oswin.io/media/posts/10/Annotation-2019-05-22-100731.png" alt="" />
                 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341755440?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341754575?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341754912?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
@@ -168,19 +168,19 @@
         <author>
             <name>Alexis Bibic</name>
         </author>
-        <link href="/datavisualisation.html"/>
-        <id>/datavisualisation.html</id>
+        <link href="alexis.oswin.io/datavisualisation.html"/>
+        <id>alexis.oswin.io/datavisualisation.html</id>
 
         <updated>2019-06-22T00:40:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
+                        <img src="alexis.oswin.io/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
                     Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
+                    <img src="alexis.oswin.io/media/posts/9/Copie-de-still_presentation0640.png" alt="" />
                 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341757257?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <figure class="post__video"><iframe width="625" height="515" src="https://player.vimeo.com/video/341757465?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
 <p>Projet de Datavisualisation pour la Bibliothèque nationale de France. Le but était de montrer les flux de données que les visiteurs ne voient pas au seins de la bibliothèque.</p>

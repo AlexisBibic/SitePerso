@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "/lunar.html",
+            "url": "/lunar.html",
+            "title": "Lunar",
+            "summary": "Conception d'affiche sur le thème du pixel sorting.",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/18/gallery/lunar2.jpg\" ><img src=\"/media/posts/18/gallery/lunar2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/18/gallery/lunar1.jpg\" ><img src=\"/media/posts/18/gallery/lunar1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/18/gallery/lunar3.jpg\" ><img src=\"/media/posts/18/gallery/lunar3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n</div>\n<p>Conception d'affiche sur le thème du pixel sorting.</p>",
+            "image": "/media/posts/18/lunar2.jpg",
+            "author": {
+                "name": "Alexis Bibic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-15T04:48:50+02:00",
+            "date_modified": "2019-10-15T12:10:45+02:00"
+        },
+        {
             "id": "/topographic-map.html",
             "url": "/topographic-map.html",
             "title": "Topographic Map",

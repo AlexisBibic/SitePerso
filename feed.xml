@@ -3,12 +3,39 @@
     <title>Alexis Bibic | Designer Graphique</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-10-14T17:45:23+02:00</updated>
+    <updated>2019-10-15T12:10:48+02:00</updated>
     <author>
         <name>Alexis Bibic</name>
     </author>
     <id></id>
 
+    <entry>
+        <title>Lunar</title>
+        <author>
+            <name>Alexis Bibic</name>
+        </author>
+        <link href="/lunar.html"/>
+        <id>/lunar.html</id>
+
+        <updated>2019-10-15T12:10:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/18/lunar2.jpg" alt="" />
+                    Conception d'affiche sur le thème du pixel sorting.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/18/lunar2.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="/media/posts/18/gallery/lunar2.jpg" ><img src="/media/posts/18/gallery/lunar2-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/18/gallery/lunar1.jpg" ><img src="/media/posts/18/gallery/lunar1-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/18/gallery/lunar3.jpg" ><img src="/media/posts/18/gallery/lunar3-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
+</div>
+<p>Conception d'affiche sur le thème du pixel sorting.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Topographic Map</title>
         <author>
